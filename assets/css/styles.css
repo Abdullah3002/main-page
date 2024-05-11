@@ -193,3 +193,11 @@ img {
     font-size: 2rem;
   }
 }
+
+
+@media(max-width: 450px) {
+  .z1{
+    height: 370px;
+    width: 370px;
+  }
+}
